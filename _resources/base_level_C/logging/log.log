@@ -1,0 +1,4 @@
+[1773658924] [INFO ] test.c:5 in main(): Hello!
+[1773658924] [INFO ] test.c:6 in main(): Veeeeeeeeeeeeeery long record!!!!
+[1773672368] [INFO ] test.c:5 in main(): Hello!
+[1773672368] [INFO ] test.c:6 in main(): Veeeeeeeeeeeeeery long record!!!!
